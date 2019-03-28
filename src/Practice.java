@@ -13,6 +13,7 @@ public class Practice {
         System.out.println("分支3.2");
         System.out.println("分支4.2");
         System.out.println("分支5.1");
+        System.out.println("分支6.1");
 
     }
 }
